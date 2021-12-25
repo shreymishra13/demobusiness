@@ -1,0 +1,321 @@
+
+body{
+    font-family: sans-serif;
+    line-height: 1.5;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+
+}
+
+
+.about-us
+{
+    color: white;
+    background-color: black;
+    padding: 180px;
+    width: 95vw;
+    margin: auto;
+    font-size: 70px;
+   
+   
+}
+.address
+{
+    margin-top: 228px;
+    padding: 42px;
+    text-align: left;
+}
+.address a{
+    color: grey;
+}
+.address p{
+    margin-bottom: 40px;
+}
+
+.button
+{
+    margin: auto;
+    margin-right: 60px;
+    width: 142px;
+    height: 49px;
+    background-color: black;
+    color: white;
+    border: none;
+    
+
+}
+.button:hover
+{
+    background-color: rgb(41, 40, 40);
+}
+.background-img
+{
+  height: 600px;
+  width: 1400px;
+
+}
+.blog
+{
+    width: 1192px;
+    margin: auto;
+    margin-top: 82px;
+    
+
+}
+.blog h1{
+    margin: auto;
+}
+.blog-items img{
+    width: 100%;
+    margin: 40px auto 40px;
+}
+.blog-items h2{
+    margin-top: 20px;
+    margin-bottom: 10px;
+   }
+
+   .blog-items-text
+   {
+    text-align: left;
+       width: 70%;
+       margin: auto;
+   }
+.column
+{
+    text-align: left;
+    padding: 30px;
+}
+.contact-us-link
+{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.contact-form
+{
+    width: 50vw;
+    border: 1px solid rgb(209, 199, 199);
+    margin-top: 124px;
+    margin-left: 150px;
+    padding: 72px;
+    text-align: left;
+}
+.contact-form button
+{
+    margin-left: 258px;
+    margin-top: 26px
+}
+.contact-form p{
+    margin-bottom: 30px;
+}
+
+.contact-form input
+{
+    margin-bottom: 30px;
+    width: 100%;
+    border: 1px solid rgb(209, 199, 199);
+    padding: 7px;
+}
+.contact-form textarea
+{
+    border: 1px solid rgb(209, 199, 199);
+    width: 100%;
+    padding: 7px;
+}
+.contact-team
+{
+    
+    display: flex;
+    justify-content: space-between;
+    width: 80vw;
+    margin: 70px auto 70px;
+}
+.contact-team img{
+    width: 330px;
+    background-color: black;
+}
+.contact-team a{
+    color: grey;
+}
+.content
+{
+    background-image: url("https://wallpapercave.com/wp/wp2853390.jpg");
+    color: white;
+        height: 600px;
+    width: 1462px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+align-items: center;
+}
+.contents
+{
+    display: flex;
+    margin: 170px;
+    text-align: left;
+}
+.content-img
+{
+    height: 380px;
+}
+.content-text
+{
+    margin-right: 100px;
+}
+.content-text h6,p{
+    color: grey;
+}
+.content-text-2
+{
+    margin-left: 100px;
+}
+.content-text-3 h6{
+    color: grey;
+    margin-top: 40px;
+}
+.content-text-4
+{
+    display: flex;
+    margin: 50px 166px;
+}
+
+.content-con
+{
+    text-align: center;
+}
+.content-con h1{
+    font-size: 70px;
+}
+.content-con h5{
+    color: rgb(212, 206, 206);
+}
+.content-con button{
+    background-color: white;
+    border: none;
+    padding: 18px 29px;
+    margin-top: 24px;
+}
+.contact-detail
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+.copyright
+{
+    margin-top: 40px;
+    padding: 20px;
+    background-color: gainsboro;
+}
+.footer-box
+{
+    background-color: gainsboro;
+    width: 90vw;
+    margin: auto;
+    padding: 100px;
+    margin-top: 100px;
+}
+.footer-box h4{
+    color: grey;
+    width: 862px;
+    margin: 20px auto;
+}
+hr{
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+}
+.links
+{
+  
+    display: flex;
+    width: 80vw;
+    justify-content: center;
+    align-items: center;
+
+}
+.links h6{
+    padding: 35px;
+    color: grey;
+}
+.navigation-bar{
+    display: flex;
+}
+.navigation-bar h3
+{
+    margin-top: 41px;
+    margin-left: 37px;
+    text-decoration: underline;
+    color: black;
+}
+
+.quote 
+{
+    text-align: center;
+    margin-top: 130px;
+}
+.quote h6{
+    color: grey;
+}
+.quote h1{
+    margin: auto;
+    width: 960px;
+}
+.text-2
+{
+    width: 70vw;
+    margin:auto;
+    margin-top: 110px;
+}
+.text-2 p{
+    margin-top: 80px;
+}
+.text-3 h6{
+    margin-top: 50px;
+}
+.text-3 h1{
+    margin-bottom: 40px;
+}
+.text-4{
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    width: 70vw;
+    margin: auto;
+}
+.text-4 h5{
+    margin-bottom: 20px;
+}
+.text-6
+{
+    margin: 75px auto 75px;
+}
+.text-6 h6{
+    color: grey;
+}
+.text-7 img{
+    width: 80vw;
+}
+.text-7 img:hover
+{
+    opacity: 70%;
+}
+.text-7 h3
+{
+    margin-top: 40px;
+}
+.text-7 h4{
+    margin-bottom: 40px;
+    color: grey;
+}
+.logo-img
+{
+    width: 20%;
+    margin-bottom: 30px;
+}
+.box
+{
+    padding-right: 77px;
+    margin-top: 35px;
+}
